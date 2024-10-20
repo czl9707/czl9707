@@ -1,7 +1,7 @@
 ## Hello 👋  
 ### I am Zane Chen, a nostalgia architect turned developer.
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?rotation=45&density=20&color=%23ff0000&width=1200&height=200" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?height=200&width=1200&color=%23ffff00&backgroundColor=%23000000&rotation=25&density=20" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F5B827)
