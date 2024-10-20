@@ -1,3 +1,5 @@
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?rotation=45&density=20&color=%23ff0000&width=1200&height=200" />
+
 ## Hello 👋  
 ### I am Zane Chen, a nostalgia architect turned developer.
 
@@ -19,9 +21,10 @@
 
 ## &#x1f4c8; GitHub Stats
 
+
 <a href="https://github.com/czl9707/czl9707">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czl9707&size_weight=0.5&count_weight=0.5&hide=html,perl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/czl9707/czl9707">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=czl9707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=czl9707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zane's GitHub Stats" />
 </a>
