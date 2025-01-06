@@ -1,5 +1,5 @@
 <h2>Hello 👋</h2>
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?height=200&width=2000&color=%23ffff00&backgroundColor=%23000000&rotation=25&density=20&bannerText=I+am+Zane+Chen.%0D%0AA+nostalgia+architect+turned+developer." />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?height=200&width=2000&color=%23ffff00&backgroundColor=%23000000&rotation=25&density=20&bannerText=I+am+Zane+Chen.%0D%0AA+nostalgia+architect+turned+Software+Engineer." />
 
 <h2>🔧 Technologies & Tools</h2>
 
