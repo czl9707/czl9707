@@ -17,6 +17,5 @@ jobs:
       - uses: czl9707/gh-space-shooter@v1.0.4
         with:
           github-token: ${{ secrets.GH_TOKEN }}
-          # output-path: 'gh-space-shooter.webp'
-          write-dataurl-to: temp.md
+          output-path: 'gh-space-shooter.webp'
           strategy: 'random'
