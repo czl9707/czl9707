@@ -1,0 +1,21 @@
+name: Test target branch commit
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+permissions:
+  contents: write
+
+jobs:
+  test-target-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: test/target-branch  # commit should land here, not on main
+          fetch-depth: 2
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'gh-space-shooter.webp'
